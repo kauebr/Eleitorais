@@ -1,2 +1,2 @@
 # Eleitorais
- Analise Eleitorais
+ Análises Eleitorais
